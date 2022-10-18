@@ -44,4 +44,6 @@ Another plot was generated on a 2D plane which graphs the total coin supply agai
 ![2D_plot](https://user-images.githubusercontent.com/107309793/196320258-aad1be9f-1b3f-4684-9136-3a3e93c5e96a.png)
 
 ## Summary
-The combination of 
+The combination of dimensionality reduction and the unsupervised machine learning K-means algorithm does provide some useful clustering of the cryptocurrency data. This is primarily seen in the 3D plot. The 2D plot does not provide a clear picture as to how each of these clusters relate to coin supply and demand, but does depict some outlier datapoints with high supply or demand (or both). It does demonstrate that most cryptocurrencies have a fairly equal supply and demand.
+
+Overall, the cryptocurrency clustering and coin supply/mining analysis can provide some insight into which cryptocurrencies might be more optimal to invest in.
